@@ -26,7 +26,7 @@ namespace ClientCFC_P4_045
             Console.WriteLine("2 / 2 = " + hasilBagi);
             Console.ReadLine();
             Koordinat objk = new Koordinat();
-
+            //File Project
         }
     }
 }
